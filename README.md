@@ -1,2 +1,1 @@
-"# ece101-ai-project" 
 This project allows you to use your computer along with a AI model in order to cause an Arduino Uno to turn a green LED on/off and a red LED on/off, like a stop sign, a thumbs up is a green light, and a thumbs down is a red light.
