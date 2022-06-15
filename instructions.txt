@@ -1,0 +1,10 @@
+Go to open the repository in file explorer
+Then open directory in cmd prompt
+Run: "python3 -m venv my_venv # If not created, creating virtualenv"
+Then go back to visual studio code and pick the virtualenv as your interpreter
+Then open terminal in visual code studio
+Run: pip3 install -r ./requirements.txt # Installing dependencies
+Make a circuit that looks like: circuitDiagram.png
+Go to the Arduino Script folder and upload the pyfirmataArduino.ino to your Arduino Uno
+Make sure that the port (ex. 'COM2') is the correct one in main.pyfirmataArduino
+Run main.py and Enjoy :)
